@@ -6,3 +6,5 @@ The calculator is a basic calculator that can calculate values in any of the fou
 
 You can download the Python file below and run it in Terminal/Command Prompt. You’ll need to have an IDE and Python 3 installed.
 
+# The python file is subject to change in the near future.
+
