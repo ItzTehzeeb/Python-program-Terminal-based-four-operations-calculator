@@ -5,6 +5,5 @@ I have successfully created a full-fledged program based on the knowledge I gain
 The calculator is a basic calculator that can calculate values in any of the four operations; addition, subtraction, multiplication and division accurately. It runs in Terminal/Command Prompt.
 
 You can download the Python file below and run it in Terminal/Command Prompt. You’ll need to have an IDE and Python 3 installed.
-
-# The python file is subject to change in the near future.
+The python file is subject to change in the near future.
 
