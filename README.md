@@ -1,4 +1,4 @@
-# Python-program-Terminal-based-four-operations-calculator
+# Python-program : Terminal-based Four-operations Calculator
 I have successfully created a full-fledged program based on the knowledge I gained learning Python 3 for the past few months. It is a four-operations calculator that can be run from the terminal.
 
 # About the calculator
