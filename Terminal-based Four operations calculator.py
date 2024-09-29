@@ -1,4 +1,5 @@
-Welcome = print("Welcome to your session of text-based 4-operation calculator, user.")
+name = input("Write your name: ")
+Welcome = print("Welcome to your session of text-based 4-operations calculator,", name + ".")
 four_operations = ["Addition", "Subtraction", "Multiplication", "Division"]
 choosing_operations = input("Choose your mode: \n")
 
@@ -32,3 +33,4 @@ else:
 
 
     
+
